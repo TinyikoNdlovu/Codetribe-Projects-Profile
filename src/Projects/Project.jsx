@@ -10,7 +10,6 @@ function Projects() {
       <>
          <h2 className="head-text">
             <span> Portfolio Section </span>
-           
          </h2>
          <span style={{color:'#98C942'}}> Codetribe Tembisa 2022</span>
 
@@ -21,6 +20,7 @@ function Projects() {
             </h2>
 
          </div>
+         
         <Contact/>
         
 
