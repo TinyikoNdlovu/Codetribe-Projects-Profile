@@ -14,9 +14,9 @@ function Projects() {
          <span style={{color:'#98C942'}}> Codetribe Tembisa 2022</span>
 
          <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin:'20px' }}>
-            <img src="https://avatars.githubusercontent.com/u/64089457?s=96&amp;v=4" alt="@codexpression-nj" size="48" height="48" width="48" data-view-component="true" class="avatar circle mr-3" />
+         <img src="https://avatars.githubusercontent.com/u/54322490?s=96&amp;v=4" alt="@TinyikoNdlovu" size="48" height="48" width="48" data-view-component="true" class="avatar circle mr-3" />
             <h2 style={{margin:'5px'}}>
-               Nokwanda Jessica Maranjane
+               Tinyiko Alice Ndlovu
             </h2>
 
          </div>
