@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Codetribe-Projects-Profile/static/css/main.59028003.css",
+    "main.js": "/Codetribe-Projects-Profile/static/js/main.6f7cfc25.js",
+    "static/js/787.4667be38.chunk.js": "/Codetribe-Projects-Profile/static/js/787.4667be38.chunk.js",
+    "static/media/image2.png": "/Codetribe-Projects-Profile/static/media/image2.1dc312b210f0dd47def4.png",
+    "static/media/image1.png": "/Codetribe-Projects-Profile/static/media/image1.366736cf7e059e0bc1e9.png",
+    "static/media/image5.png": "/Codetribe-Projects-Profile/static/media/image5.3bccf31d6deba4d0816b.png",
+    "static/media/image6.png": "/Codetribe-Projects-Profile/static/media/image6.c613c744481bba880ef6.png",
+    "static/media/image4.png": "/Codetribe-Projects-Profile/static/media/image4.832509a1079110950451.png",
+    "static/media/image3.png": "/Codetribe-Projects-Profile/static/media/image3.e66441be1dcb905d795a.png",
+    "static/media/logo.svg": "/Codetribe-Projects-Profile/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Codetribe-Projects-Profile/index.html",
+    "main.59028003.css.map": "/Codetribe-Projects-Profile/static/css/main.59028003.css.map",
+    "main.6f7cfc25.js.map": "/Codetribe-Projects-Profile/static/js/main.6f7cfc25.js.map",
+    "787.4667be38.chunk.js.map": "/Codetribe-Projects-Profile/static/js/787.4667be38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59028003.css",
+    "static/js/main.6f7cfc25.js"
+  ]
+}
